@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/TransformerOptimus/SuperAGI/commit/c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
       "git:hexsha": "c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T19:38:39.279274+00:00"
     },
     {
       "@id": "https://repolex.ai/r/TransformerOptimus/SuperAGI/commit/07404824870723c5b36c1c04923f4e98eca5d9ed",
