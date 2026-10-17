@@ -1,0 +1,11 @@
+{
+  "org": "TransformerOptimus",
+  "repo": "SuperAGI",
+  "versions": [
+    {
+      "commit": "c3c1982e7bd6a11cfed53c5a193ea502f924b1b6",
+      "tag": "",
+      "parsed_at": "2026-10-17T19:38:39.279810+00:00"
+    }
+  ]
+}
